@@ -74,18 +74,18 @@
   "fileHashes": {
     ".github/CODEOWNERS": "b6186d483919a45be6dd29537a58adc1a5a34338ab74fcf6e9985506c18eb025",
     ".gitignore": "6c3f21e0d020c2a3887f176d7d69e0e6456e31888e053bf9dd5d1c5c78972aeb",
-    "CHANGELOG.md": "6570fb9e05d7fbe59f3635ab838a7d80649e076fe7b4681d4ba0485fcd0fe1c4",
+    "CHANGELOG.md": "651b60efc666e70546fce801e9c300713e21c2e105bf60ce38d2df8d4679e3e3",
     "CONTRIBUTING.md": "6d7437d3221e23817117ac249dcac1f829a5143e615ec409e7fb6040755090cc",
     "LICENSE": "130c075edb106634e90df2eb62cba8f7a3cb2c0e8ccec39cb168fc649684205d",
-    "Package.swift": "a04b200c0ed69d05471ad9e58fcd5078f170308450d07b0764c25604e8b9016f",
-    "README.md": "59b2db66b9b3823985a5fab64ad59ce6fca92ef31a903d8c2ce74b53557e5adf",
+    "Package.swift": "46b4ced931564abc4460252344e42a71e5cbdd2c41dcb28928b8dc01620fc138",
+    "README.md": "5252d35a2d9a5f5add26b78110b46e9a581236a53e9d3f9d9bc0d805af155f90",
     "Sources/RudderIntegrationFirebase/FirebaseAnalyticsAdapter.swift": "2dcd662b95cf96470692f8d3870e8b0432b13503c89b56a2ffe55a1bfeb21808",
     "Sources/RudderIntegrationFirebase/FirebaseAppAdapter.swift": "b040b6f5c9d1815d15b7cfbd5d7d047248f19183119eb8cb629db8eb925d0993",
     "Sources/RudderIntegrationFirebase/FirebaseIntegration.swift": "2537a0a5c4551a6a5318eccafee6ae9398ad51249ab73934ece4daa2ccde3998",
     "Sources/RudderIntegrationFirebase/FirebaseUtils.swift": "4ce889677d2d22225265e80e459f9c60bdb5c5b6a8f7d2585587cfae30e080ef",
     "Sources/RudderIntegrationFirebase/ObjCFirebaseIntegration.swift": "dcc4911d676779aa4c0cb19ded8033770ab5a5c77933bceef51ed936ee3cad38",
-    "Sources/RudderIntegrationFirebase/Version.swift": "c795aa30d2d307f09452033d1ffe10b57ec473cbae4d602dad939a2549a3c07a",
-    "VERSION": "77123b8e4bdbd54505bf6e8021527ac60281602a06fe307564532c4dba39dbca"
+    "Sources/RudderIntegrationFirebase/Version.swift": "c6d047c1c702a52f676a6f53defb102a7c057485492f8936103b3c7a73e5d11b",
+    "VERSION": "5dae0c0a5ed3cdaa78704e25bb38d72c31018311e933283d06ed4f93360bfc6c"
   },
   "package": "firebase",
   "policies": {
@@ -95,11 +95,11 @@
     }
   },
   "schemaVersion": 1,
-  "sourceCommit": "1b9dfbc61b12037de8c458e72c18bffb67cc5ccb",
+  "sourceCommit": "64f721abbfcb2f514c5277a9cf6e51d8c43652de",
   "sourceRepository": "rudderlabs/experimental-swift-monorepo",
   "targetClosure": [
     "RudderStackAnalytics",
     "RudderIntegrationFirebase"
   ],
-  "version": "1.1.2"
+  "version": "1.1.3"
 }
