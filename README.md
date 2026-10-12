@@ -138,3 +138,7 @@ For more information:
 - [Slack](https://rudderstack.com/join-rudderstack-slack-community)
 - [Twitter](https://twitter.com/rudderstack)
 - [YouTube](https://www.youtube.com/channel/UCgV-B77bV_-LOmKYHw8jvBw)
+
+## Report issues / contribute
+
+This package is generated from the [experimental-swift-monorepo](https://github.com/rudderlabs/experimental-swift-monorepo) monorepo. [Report an issue or contribute](https://github.com/rudderlabs/experimental-swift-monorepo/issues/new/choose) there; pull requests in this repository are not merged.
