@@ -54,9 +54,9 @@ public class FirebaseIntegration: IntegrationPlugin, StandardIntegration {
 
         if !appAdapter.isConfigured {
             appAdapter.configure()
-            LoggerAnalytics.debug("Firebase is initialized")
+            LoggerAnalytics.debug("FirebaseIntegration: Firebase is initialized")
         } else {
-            LoggerAnalytics.debug("Firebase core already initialized - skipping Firebase configuration")
+            LoggerAnalytics.debug("FirebaseIntegration: Firebase core already initialized - skipping Firebase configuration")
         }
     }
 
@@ -158,7 +158,7 @@ public class FirebaseIntegration: IntegrationPlugin, StandardIntegration {
     public func reset() {
         // Clear Firebase user ID
         self.analyticsAdapter.setUserID(nil)
-        LoggerAnalytics.debug("Reset: Firebase Analytics setUserID:nil")
+        LoggerAnalytics.debug("FirebaseIntegration: Reset Firebase Analytics user ID")
     }
 }
 
